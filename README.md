@@ -4,4 +4,4 @@ PUBG Finish Placement Predictions is a Kaggle competition. The dataset includes 
 The goal is achieved by 1. Removing unnecessary features from the dataset, 2. Feature Scaling, 3. Trying different ML algorithms and determining the best algorithm by MSE which is the Mean Squared Error.
 The most successful algorithm is Random Forest with an accuracy of 75% in predicting the probability of players winning a game. 
 
-The .ipynb file above contains thecode with details, including the motivation for the project and the conclusion.
+The .ipynb file above contains the code with details, including the motivation for the project and the conclusion.
